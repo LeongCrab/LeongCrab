@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dladuscjf8)](https://solved.ac/dladuscjf8)
 <!--
 **LeongCrab/LeongCrab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
